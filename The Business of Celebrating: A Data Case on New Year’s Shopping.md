@@ -2,7 +2,7 @@
 - Determine which product will be most profitable to launch in your own production by the New Year holidays
 - Explore delivery during the New Year holidays
 
-&#128269 **Key Questions:**
+🔍 **Key Questions:**
 - When do seasonal product sales peak throughout the year?
 - At what point do consumers begin shopping for New Year’s goods?
 - Which New Year-related products sell the most?
