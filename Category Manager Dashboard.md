@@ -48,17 +48,17 @@ The dashboard answers the following business questions:
    
    ![Answer Screenshot 2](img/answer_2.png)
 
-3. **What week did Makar Lisitsin have the highest sales in category 1 “Children's Products”?**
+3. **What week did Makar Lisitsin have the highest sales in category 1 “Children's Products”?**  
     _Answer:_ from November 18, 2019
    
     ![Answer Screenshot 3](img/answer_3.png)
 
-4. **How many units of goods in the category "Construction and Repair" → "Plumber" was sold by Vitaliy Rekalo from July 1 to July 31, 2019?**
+4. **How many units of goods in the category "Construction and Repair" → "Plumber" was sold by Vitaliy Rekalo from July 1 to July 31, 2019?**  
     _Answer:_ 650 units
    
     ![Answer Screenshot 4](img/answer_4.png)
 
-5. **How many rubles did the actual sales of all categories of Peter Ivanov amounted to?**
+5. **How many rubles did the actual sales of all categories of Peter Ivanov amounted to?**  
     _Answer:_ 431 million rubles
    
     ![Answer Screenshot 5](img/answer_5.png)
