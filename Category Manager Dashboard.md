@@ -38,7 +38,7 @@ The dashboard includes:
 
 The dashboard answers the following business questions:
 
-1. **Best-selling product by Artem Boltin** 
+1. **Best-selling product by Artem Boltin**  
    _Answer:_ Yandex.Station Smart Speaker (₽255M)
    
    ![Answer Screenshot 1](img/answer_1.png)
